@@ -1,4 +1,4 @@
-## Assignment 5 Group Project - CSC242
+## Assignment 5 Group 4 Project - CSC242 - Q. 8.7
 ## Group 4 Members: Alex Carris, Rene Navarro, & Danielle Able
 ## Purpose: 
 - This program can encrypt or decrypt a txt file with the Random monoalphabet cipher included in the Cipher.cpp file. 
